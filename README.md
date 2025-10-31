@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo demonstrar a aplicação de **práticas profissionais obrigatórias** em um ciclo de desenvolvimento de software, abrangendo desde o controle de versão e acessibilidade (WCAG 2.1 AA) até a otimização de deploy para ambiente de produção.
 
-A entrega final comprova o domínio nas áreas de **DevOps (versionamento)**, **Experiência do Usuário (Acessibilidade)** e **Performance Web**.
+A entrega final comprova o domínio nas áreas de **DevOps (versionamento)**, **Experiência do Usuário (Acessibilidade)** e **Performance Web**. 
 
 ---
 
